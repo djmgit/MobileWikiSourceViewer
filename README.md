@@ -5,4 +5,5 @@ This is a simple app which uses MediaWiki api's functionality to fetch the wiki 
 json feed and displays the source code for the content of the page to the user
 
 User has to give a search phrase and if a wik page exists by the given title then its source code is displayed
-The explores one of the most powerfull feature of MediaWiki api that is querying wiki content.
+
+This app explores one of the most powerfull feature of MediaWiki api that is querying wiki content.
